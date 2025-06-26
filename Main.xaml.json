@@ -1,0 +1,93 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "Retry",
+      "DisplayName": "Retry",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "argument1",
+      "DisplayName": "argument1",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "LoogToFile",
+      "DisplayName": "LoogToFile",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "URL",
+      "DisplayName": "URL",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "RetryCount",
+      "DisplayName": "RetryCount",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "UserNamer",
+      "DisplayName": "UserNamer",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "Password",
+      "DisplayName": "Password",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
