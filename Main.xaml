@@ -99,7 +99,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:SetAsset TimeoutMS="{x:Null}" AssetName="URL" ContinueOnError="True" DisplayName="Set Asset" FolderPath="sudeeptapradhan048@gmail.com's workspace" sap:VirtualizedContainerService.HintSize="416,229.33333333333334" sap2010:WorkflowViewState.IdRef="SetAsset_1" Value="[&quot;sudeepta&quot;]" />
+    <ui:SetAsset TimeoutMS="{x:Null}" AssetName="URL" ContinueOnError="True" DisplayName="Set Asset" FolderPath="sudeeptapradhan048@gmail.com's workspace" sap:VirtualizedContainerService.HintSize="416,229.33333333333334" sap2010:WorkflowViewState.IdRef="SetAsset_1" Value="[&quot;sudeepta1&quot;]" />
     <ui:GetRobotAsset TimeoutMS="{x:Null}" AssetName="retryCount" CacheStrategy="None" DisplayName="Get Asset" FolderPath="sudeeptapradhan048@gmail.com's workspace" sap:VirtualizedContainerService.HintSize="416,57.333333333333336" sap2010:WorkflowViewState.IdRef="GetRobotAsset_4">
       <ui:GetRobotAsset.Value>
         <OutArgument x:TypeArguments="x:String">[Retry]</OutArgument>
@@ -141,6 +141,6 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:GetRobotCredential>
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,109.33333333333333" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;Helo Sudeepta&quot; + LoogToFile.ToString + URL +&quot;Retry &quot; +Retry]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,109.33333333333333" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;Hello Sudeepta&quot; + LoogToFile.ToString + URL +&quot;Retry &quot; +Retry]" />
   </Sequence>
 </Activity>
