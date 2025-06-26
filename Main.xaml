@@ -141,6 +141,6 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:GetRobotCredential>
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,109.33333333333333" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;Hello Sudeepta&quot; + LoogToFile.ToString + URL +&quot;Retry &quot; +Retry]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,109.33333333333333" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;Hello  Sudeepta&quot; + LoogToFile.ToString + URL +&quot;Retry &quot; +Retry]" />
   </Sequence>
 </Activity>
